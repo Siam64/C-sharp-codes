@@ -1,0 +1,10 @@
+E:\Visual studio\VolumeConverter\VolumeConverter\bin\Debug\VolumeConverter.exe.config
+E:\Visual studio\VolumeConverter\VolumeConverter\bin\Debug\VolumeConverter.exe
+E:\Visual studio\VolumeConverter\VolumeConverter\bin\Debug\VolumeConverter.pdb
+E:\Visual studio\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.csproj.AssemblyReference.cache
+E:\Visual studio\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.volumeConverter.resources
+E:\Visual studio\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.Properties.Resources.resources
+E:\Visual studio\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.csproj.GenerateResource.cache
+E:\Visual studio\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.csproj.CoreCompileInputs.cache
+E:\Visual studio\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.exe
+E:\Visual studio\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.pdb

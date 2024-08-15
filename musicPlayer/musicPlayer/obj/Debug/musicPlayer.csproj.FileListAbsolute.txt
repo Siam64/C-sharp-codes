@@ -1,0 +1,15 @@
+E:\Visual studio\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe.config
+E:\Visual studio\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe
+E:\Visual studio\musicPlayer\musicPlayer\bin\Debug\musicPlayer.pdb
+E:\Visual studio\musicPlayer\musicPlayer\bin\Debug\Interop.WMPLib.dll
+E:\Visual studio\musicPlayer\musicPlayer\bin\Debug\AxInterop.WMPLib.dll
+E:\Visual studio\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.AssemblyReference.cache
+E:\Visual studio\musicPlayer\musicPlayer\obj\Debug\Interop.WMPLib.dll
+E:\Visual studio\musicPlayer\musicPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\Visual studio\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.ResolveComReference.cache
+E:\Visual studio\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Form1.resources
+E:\Visual studio\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Properties.Resources.resources
+E:\Visual studio\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.GenerateResource.cache
+E:\Visual studio\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.CoreCompileInputs.cache
+E:\Visual studio\musicPlayer\musicPlayer\obj\Debug\musicPlayer.exe
+E:\Visual studio\musicPlayer\musicPlayer\obj\Debug\musicPlayer.pdb
